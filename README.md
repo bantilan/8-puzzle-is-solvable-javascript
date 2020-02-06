@@ -4,7 +4,7 @@ Simple Javascript function to check if the 8-puzzle combination is solvable or n
 For this function, it uses the goal state of 1,2,3,4,5,6,7,8,0
 
 # Usage
-Call these function
+Example usage.
 ```
 arr = [0,1,2,3,4,5,6,7,8]
 solvable(arr);
